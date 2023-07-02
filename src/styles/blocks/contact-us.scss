@@ -17,6 +17,10 @@
     font-weight: 500;
     line-height: 22px;
     color: $main-color;
+
+    &:hover {
+      color: #e9e2e5;
+    }
   }
 
   &__field {
